@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculadoraMundial</string>
+    <string name="Res">RESTA</string>
+    <string name="Sum">SUMA</string>
+    <string name="Mul">MULTIPLICACIO</string>
+    <string name="Div">DIVISIÓN</string>
+    <string name="sen">SENO X</string>
+    <string name="cos">COSENO X</string>
+    <string name="cal">CALCULAR</string>
+    <string name="Sal">RESULTADO</string>
+    <string name="Rai">Raiz</string>
+
+</resources>

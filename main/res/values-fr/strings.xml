@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CALCUTRICE DU MONDE</string>
+    <string name="Res">SOUSTRACTION</string>
+    <string name="Sum">SOMME</string>
+    <string name="Mul">MULTIPLICATION</string>
+    <string name="Div">DIVISIÓN</string>
+    <string name="sen">SEIN X</string>
+    <string name="cos">COSINUS X</string>
+    <string name="cal">CALCULER</string>
+    <string name="Sal">RÉSULTAT</string>
+    <string name="Rai">Racine</string>
+</resources>
